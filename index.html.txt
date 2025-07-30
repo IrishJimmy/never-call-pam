@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>NEVER CALL PAM - Public Warning</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff9f9;
+      color: #2c2c2c;
+      max-width: 800px;
+      margin: auto;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    h1 {
+      color: #b30000;
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    h2 {
+      color: #660000;
+      margin-bottom: 30px;
+    }
+    audio {
+      width: 100%;
+      margin-top: 30px;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>⚠️ NEVER CALL PAM</h1>
+  <h2>Public Adjusters of Michigan – A Homeowner Warning</h2>
+
+  <p>This website is my personal account and warning to other homeowners about a terrible experience I had hiring the company called <strong>Public Adjusters of Michigan (PAM)</strong>.</p>
+  
+  <p>Click below to hear the full story and learn why I urge you to <strong>NEVER CALL PAM</strong>.</p>
+
+  <audio controls>
+    <source src="pam-warning.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+
+  <footer>
+    <p>&copy; 2025 NEVERCALLPAM.com – This site shares my personal experience and opinion.</p>
+  </footer>
+
+</body>
+</html>
